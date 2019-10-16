@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "nativescript-globalevents-free": "latest",
-    "nativescript-platform": "latest"
+    "nativescript-platform-free": "latest"
   },
   "keywords": [
     "NativeScript",
