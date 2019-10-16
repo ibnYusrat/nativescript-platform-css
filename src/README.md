@@ -1,10 +1,11 @@
-<a href="https://proplugins.org"><img src="unmaintained.svg" height="30px" width="100%"></a>
+# NativeScript Platform SS (Free)
 
-# NativeScript-Platform-CSS
+I created  a fork of the original `nativescript-platform-css` because the original plugin requires a subscription and is not maintained any more. I will try to keep this from breaking specially for beginners wh want to learn NativeScript. 
 
+To install it, simply run: 
 
-<p align="center"><a href="https://proplugins.org"><img src="https://proplugins.org/logos/logo.png" width="400"  /></a></p>
+`npm install nativescript-platform-css-free`
 
-This version is completely unsupported and untested on NativeScript 6.  Please upgrade your plugin to the tested, supported and maintained version. 
+And use it like you would normally.
 
-Documentation for this plugin is located at <a href="https://npm.proplugins.org/-/web/detail/@proplugins/nativescript-platform-css">here</a>
+Please follow the original ReadMe for deatils on how to use it. 
