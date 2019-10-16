@@ -1,9 +1,11 @@
-# NativeScript Platform CSS (Free)
+### Free version for `nativescript-platform-css` (renamed to `nativescript-platform-css-free`)
 
-I created  a fork of the original `nativescript-platform-css` because the original plugin requires a subscription and is not maintained any more. I will try to keep this from breaking specially for beginners wh want to learn NativeScript. 
+Since all of these basic plugins have become paid now, I will try and maintain them for free for as long as I can.
 
-To install it, simply run: 
+
+To use this, simply install with NPM using:
 
 `npm install nativescript-platform-css-free`
 
-And use it like you would normally.
+
+All credit goes to: <a href="https://github.com/NathanaelA">NathanaelA</a> for writing this. I am only attempting to maintain it without charging anything.
