@@ -1,30 +1,36 @@
 {
-  "name": "nativescript-platform-css",
-  "version": "1.6.10",
-  "description": "A NativeScript plugin to deal with Declarative UI and Platform CSS",
+  "name": "nativescript-platform-css-free",
+  "version": "1.6.14",
+  "description": "A NativeScript plugin to deal with Declarative UI and Platform CSS. Since the original plugin requires a subscription now, this plugin is my attempt to maintain it to the point where it does not break.",
   "main": "platformcss",
   "nativescript": {
-	"platforms": {
-		"android": "1.6.0",
-		"ios": "1.6.0"
-	},
-	"plugin": {
-	  "nan": "false",
-	  "pan": "true",
-	  "core3": "true",
-	  "category": "Processing"
-	}
+    "platforms": {
+      "android": "6.0.0",
+      "ios": "6.0.0"
+    },
+    "plugin": {
+      "nan": "false",
+      "pan": "true",
+      "core3": "true",
+      "category": "Processing"
+    }
   },
   "repository": {
     "type": "git",
-    "url": "https://git.proplugins.org/proplugins/nativescript-platform-css.git"
+    "url": "https://github.com/ibnYusrat/nativescript-platform-css.git"
   },
   "dependencies": {
-    "nativescript-globalevents": "latest",
-    "nativescript-platform": "latest"
+    "nativescript-globalevents-free": "latest",
+    "nativescript-platform-free": "latest"
   },
   "keywords": [
-    "NativeScript", "platform", "css", "ios", "android", "notch", "softnav"
+    "NativeScript",
+    "platform",
+    "css",
+    "ios",
+    "android",
+    "notch",
+    "softnav"
   ],
   "author": {
     "name": "Nathanael Anderson",
@@ -36,27 +42,29 @@
       "email": "steve@sitefinitysteve.com",
       "url": "https://github.com/sitefinitysteve"
     },
-	{
-	  "name": "Dave Coffin",
-	  "email": "dave@davecoffin.com",
-	  "url": "https://github.com/davecoffin"
-	},
-	{
-	  "name": "Jonathan Salomon",
-	  "email": "mail2joni@gmail.com",
-	  "url": "https://github.com/abhayastudios"
-	}
+    {
+      "name": "Dave Coffin",
+      "email": "dave@davecoffin.com",
+      "url": "https://github.com/davecoffin"
+    },
+    {
+      "name": "Jonathan Salomon",
+      "email": "mail2joni@gmail.com",
+      "url": "https://github.com/abhayastudios"
+    },
+    {
+      "name": "Muhammad bin Yusrat",
+      "email": "ibnyusrat@yahoo.com",
+      "url": "https://github.com/ibnYusrat"
+    }
   ],
-  "license": {
-    "type": "MIT",
-    "url": "https://git.proplugins.org/proplugins/nativescript-platform-css/blob/master/LICENSE"
-  },
+  "license": "MIT",
   "bugs": {
-    "url": "https://git.proplugins.org/proplugins/nativescript-platform-css/issues"
+    "url": "https://github.com/NathanaelA/nativescript-platform-css/issues"
   },
   "scripts": {
     "postinstall": "node postinstall.js || echo \"ignore\""
   },
-  "homepage": "https://git.proplugins.org/proplugins/nativescript-platform-css",
+  "homepage": "https://github.com/ibnYusrat/nativescript-platform-css.git",
   "readmeFilename": "README.md"
 }

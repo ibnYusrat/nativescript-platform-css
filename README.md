@@ -1,10 +1,11 @@
-<a href="https://proplugins.org"><img src="src/unmaintained.svg" height="30px" width="100%"></a>
+### Free version for `nativescript-platform-css` (renamed to `nativescript-platform-css-free`)
 
-# NativeScript-Platform-CSS
+Since all of these basic plugins have become paid now, I will try and maintain them for free for as long as I can.
 
 
-<p align="center"><a href="https://proplugins.org"><img src="https://proplugins.org/logos/logo.png" width="400"  /></a></p>
+To use this, simply install with NPM using:
 
-This version is completely unsupported and untested on NativeScript 6.  Please upgrade your plugin to the tested, supported and maintained version. 
+`npm install nativescript-platform-css-free`
 
-Documentation for this plugin is located at <a href="https://npm.proplugins.org/-/web/detail/@proplugins/nativescript-platform-css">here</a>
+
+All credit goes to: <a href="https://github.com/NathanaelA">NathanaelA</a> for writing this. I am only attempting to maintain it without charging anything.
