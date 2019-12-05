@@ -4,16 +4,16 @@
   "description": "A NativeScript plugin to deal with Declarative UI and Platform CSS",
   "main": "platformcss",
   "nativescript": {
-	"platforms": {
-		"android": "1.6.0",
-		"ios": "1.6.0"
-	},
-	"plugin": {
-	  "nan": "false",
-	  "pan": "true",
-	  "core3": "true",
-	  "category": "Processing"
-	}
+    "platforms": {
+      "android": "1.6.0",
+      "ios": "1.6.0"
+    },
+    "plugin": {
+      "nan": "false",
+      "pan": "true",
+      "core3": "true",
+      "category": "Processing"
+    }
   },
   "repository": {
     "type": "git",
@@ -24,7 +24,13 @@
     "nativescript-platform": "latest"
   },
   "keywords": [
-    "NativeScript", "platform", "css", "ios", "android", "notch", "softnav"
+    "NativeScript",
+    "platform",
+    "css",
+    "ios",
+    "android",
+    "notch",
+    "softnav"
   ],
   "author": {
     "name": "Nathanael Anderson",
@@ -36,16 +42,16 @@
       "email": "steve@sitefinitysteve.com",
       "url": "https://github.com/sitefinitysteve"
     },
-	{
-	  "name": "Dave Coffin",
-	  "email": "dave@davecoffin.com",
-	  "url": "https://github.com/davecoffin"
-	},
-	{
-	  "name": "Jonathan Salomon",
-	  "email": "mail2joni@gmail.com",
-	  "url": "https://github.com/abhayastudios"
-	}
+    {
+      "name": "Dave Coffin",
+      "email": "dave@davecoffin.com",
+      "url": "https://github.com/davecoffin"
+    },
+    {
+      "name": "Jonathan Salomon",
+      "email": "mail2joni@gmail.com",
+      "url": "https://github.com/abhayastudios"
+    }
   ],
   "license": {
     "type": "MIT",
