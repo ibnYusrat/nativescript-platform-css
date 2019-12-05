@@ -1,6 +1,6 @@
 {
   "name": "nativescript-platform-css-free",
-  "version": "1.6.14",
+  "version": "1.6.15",
   "description": "A NativeScript plugin to deal with Declarative UI and Platform CSS. Since the original plugin requires a subscription now, this plugin is my attempt to maintain it to the point where it does not break.",
   "main": "platformcss",
   "nativescript": {
